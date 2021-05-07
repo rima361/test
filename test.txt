@@ -1,2 +1,6 @@
 dddd
+<<<<<<< HEAD
 Ds
+=======
+3
+>>>>>>> Update test.txt
